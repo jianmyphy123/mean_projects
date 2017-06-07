@@ -5,6 +5,5 @@
 .sass-cache
 
 # package control
-express_website/node_modules
 meanauthapp/node_modules
 meanauthapp/angular-src/node_modules
