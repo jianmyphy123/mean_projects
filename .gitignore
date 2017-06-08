@@ -7,3 +7,7 @@
 # package control
 meanauthapp/node_modules
 meanauthapp/angular-src/node_modules
+
+mytasklist/node_modules
+mytasklist/angular-src/node_modules
+mytasklist/angular-src/bower_components
