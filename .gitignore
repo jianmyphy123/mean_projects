@@ -11,3 +11,6 @@ meanauthapp/angular-src/node_modules
 mytasklist/node_modules
 mytasklist/angular-src/node_modules
 mytasklist/angular-src/bower_components
+
+meanauth_angularjs/node_modules
+meanauth_angularjs/config/mail.js
