@@ -10,3 +10,14 @@
 ## mytasklist(angular2, cli)
 * mongolab
 * mongodb CRUD using angular2
+## meanauth_angularjs(angularjs 1.6)
+* Angular Routes
+* User Registration Page & AngularJS Factory/Service & ngAnimate
+* User Login & Authentication Service
+* Keep User Logged In Using JWT
+* Facebook, Google Login
+* Mongoose Validation using Regular Expression(RegEx)
+* Front End Form Validation
+* E-mail Confirm(Nodemailer)
+* Reset password/Forgot Username
+* Bootstrap Modals/ Expired Session
